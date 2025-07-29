@@ -319,7 +319,7 @@ const Portfolio = () => {
                 <span className="relative z-10 font-bold text-lg">LinkedIn</span>
               </a>
               <a
-                href="https://instagram.com/fayaz_crush_24"
+                href="https://instagram.com/fayaz_crush._"
                 className="group relative flex items-center gap-3 bg-gradient-to-r from-pink-600 to-purple-700 hover:from-pink-500 hover:to-purple-600 text-white px-6 py-4 rounded-full transition-all duration-500 hover:scale-110 shadow-lg shadow-pink-600/50 hover:shadow-pink-500/50 overflow-hidden"
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
