@@ -252,7 +252,7 @@ const Portfolio = () => {
           <nav className="flex justify-between items-center mb-12">
             <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-pulse relative">
               <span className="inline-block animate-bounce">&lt;</span>
-              WELCOME TO MY PORTFOLIO WEBSITE
+              WELCOME TO MY PORTFOLIO 
               <span className="inline-block animate-bounce" style={{ animationDelay: '0.1s' }}>/</span>
               <span className="inline-block animate-bounce" style={{ animationDelay: '0.2s' }}>&gt;</span>
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent blur-sm opacity-50 -z-10"></div>
